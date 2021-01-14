@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BPS Strona Główna</title>
+</head>
+<body>
+    <section>
+    <div> <!--Przyciski logowania/rejestracji-->
+        <a href="login.html"><button>Zaloguj się</button></a>
+        <a href="register.html"><button>Zarejestruj się</button></a>
+    </div>
+    <div> <!--nawigacja-->
+        <a href="Index.html">Strona Główna</a>
+        <A href="Kup.html">Kup</A>
+        <a href="Sprzedaj.html">Sprzedaj</a>
+    </div>
+    <div> <!--przywitanie-->
+        <h1>Witaj na BuyPlaySell</h1>
+        <h2>Chcesz się dowiedzieć wiecj o serwisie? <br/><a href="oprowadzenie.html">Kliknij Tutaj</a></h2>
+    </div>
+    <div> <!--pytanie-->
+        <h2>Co Chciałbyś dzisiaj zrobić?</h2><br/>
+        <a href="Kup.html"><button>Kupić Grę</button></a>
+        <a href="Sprzedaj.html"><button>Sprzedać Grę</button></a>
+    </div>
+    <div>
+        <h3>
+        </h3>
+    </div>
+    </section>
+</body>
+</html>
